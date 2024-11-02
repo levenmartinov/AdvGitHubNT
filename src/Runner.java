@@ -22,6 +22,8 @@ public class Runner {
         //techpro 4
         //------------------------
 
+        //ben ben bu isi ogrenegecim
+        //ve eminim bundan
 
     }
 
