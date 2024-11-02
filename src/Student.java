@@ -7,5 +7,5 @@ public class Student {
 
     //techpro 4
 
-    //dew2 geliyor
+  //yeni code lar
 }
