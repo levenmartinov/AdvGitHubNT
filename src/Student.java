@@ -6,7 +6,6 @@ public class Student {
     //techpro 2
 
     //techpro 4
-    //-----------------------
 
-    //dev2 nin codelari
+  //yeni code lar
 }
