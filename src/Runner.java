@@ -22,6 +22,7 @@ public class Runner {
         //techpro 4
         //------------------------
 
+        //seninle burda el ele verip basaracagiz
 
     }
 
